@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.AssemblyInfo.cs
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\bin\Debug\net10.0\Gladiator.exe
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\bin\Debug\net10.0\Gladiator.deps.json
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\bin\Debug\net10.0\Gladiator.runtimeconfig.json
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\bin\Debug\net10.0\Gladiator.dll
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\bin\Debug\net10.0\Gladiator.pdb
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.dll
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\refint\Gladiator.dll
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.pdb
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.genruntimeconfig.cache
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\ref\Gladiator.dll
+C:\Users\Артем\Desktop\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\типо гладиатор\Gladiator\obj\Debug\net10.0\Gladiator.csproj.Up2Date
