@@ -1,4 +1,5 @@
-﻿using System;
+﻿//короче начинаем 
+using System;
 
 namespace GladiatorBattle
 {
