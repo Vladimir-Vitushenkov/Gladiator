@@ -32,11 +32,22 @@ namespace GladiatorBattle
             Console.WriteLine(" уровень брони второго гладиатора составляет --> {0:F2}", armor2);
 
             //формирование полученной атаки
-            attack1 = 10 + Rand.NextDouble() * 30;
-            Console.WriteLine(" размер атаки первого гладиатора составляет --> {0:F2}", attack1);
+            do
+            {
+                ////if (healthtwo >= 10 && healthone >= 10)
+                attack1 = 10 + Rand.NextDouble() * 30;
 
-            attack2 = 10 + Rand.NextDouble() * 30;
-            Console.WriteLine(" размер атаки второго гладиатора составляет --> {0:F2}", attack2);
+                attack2 = 10 + Rand.NextDouble() * 30;
+                if (healthtwo >= 10 && healthone >= 10)
+                {
+                    ////attack1 = 10 + Rand.NextDouble() * 30;
+                    Console.WriteLine(" размер атаки первого гладиатора составляет --> {0:F2}", attack1);
+
+
+                    ////attack2 = 10 + Rand.NextDouble() * 30;
+                    Console.WriteLine(" размер атаки второго гладиатора составляет --> {0:F2}", attack2);
+                }
+            } while (healthone != 0 && healthtwo != 0);
 
 
             //урон
@@ -51,7 +62,7 @@ namespace GladiatorBattle
             Console.WriteLine("оставшееся здоровье первого гладиатора составляет --> {0:F2}", healthone);
 
             healthtwo = healthtwo - damage2;
-            Console.WriteLine("оставшееся здоровье первого гладиатора составляет --> {0:F2}", healthtwo);
+            Console.WriteLine("оставшееся здоровье второго гладиатора составляет --> {0:F2}", healthtwo);
 
         }
     }

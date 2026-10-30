@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артем\\Desktop\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\Gladiator.csproj",
+      "projectUniqueName": "G:\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\Gladiator.csproj",
       "projectName": "Gladiator",
-      "projectPath": "C:\\Users\\Артем\\Desktop\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\Gladiator.csproj",
+      "projectPath": "G:\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\Gladiator.csproj",
       "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артем\\Desktop\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\obj\\",
+      "outputPath": "G:\\МДК 2.1 РАЗРАБОТКА ПРОГРАММНЫХ МОДУЛЕЙ\\типо гладиатор\\Gladiator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
