@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\",
+  "WorkspaceRootPath": "G:\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{369A708E-6FFC-D03F-DAF6-08C8E7A8AEF7}|Gladiator.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\\u043C\u0434\u043A 2.1 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\gladiator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{369A708E-6FFC-D03F-DAF6-08C8E7A8AEF7}|Gladiator.csproj|g:\\\u043C\u0434\u043A 2.1 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\gladiator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{369A708E-6FFC-D03F-DAF6-08C8E7A8AEF7}|Gladiator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\Program.cs",
+              "DocumentMoniker": "G:\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\Program.cs",
+              "ToolTip": "G:\\\u041C\u0414\u041A 2.1 \u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0410 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u041D\u042B\u0425 \u041C\u041E\u0414\u0423\u041B\u0415\u0419\\\u0442\u0438\u043F\u043E \u0433\u043B\u0430\u0434\u0438\u0430\u0442\u043E\u0440\\Gladiator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T17:54:40.827Z",
               "EditorCaption": ""
